@@ -1,2 +1,2 @@
 # Python_algTesting
-- practising algorithmic thinking in python
+- practicing algorithmic thinking in python
